@@ -8,11 +8,11 @@
 
 ##### 提交界面 localhost:8080/submit
 
-![avatar](E:\eclipse_jee\github\TimeLine\submit.png)
+![avatar](submit.png)
 
 ##### 浏览界面 localhost:8080/showResult
 
-![avatar](E:\eclipse_jee\github\TimeLine\showResult.png)
+![avatar](showResult.png)
 
 
 
